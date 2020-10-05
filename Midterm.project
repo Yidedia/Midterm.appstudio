@@ -26,6 +26,38 @@
             "animals",
             "animals.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "animalExtraXP",
+            "animalExtraXP.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calculate",
+            "calculate.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calculateExtraXP",
+            "calculateExtraXP.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "incomeBracket",
+            "incomeBracket.json"
+          ]
         }
       ],
       "configxml": null,
@@ -47,7 +79,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "animals",
+      "firstform": "calculate",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
